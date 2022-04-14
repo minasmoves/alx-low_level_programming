@@ -4,7 +4,7 @@
  * main - prints the first 98 fibonacci numbers starting with 1 and 2
  *        separeted by a comma followed by a space
  *
- * return: always 0
+ * Return: always 0
  */
 int main(void)
 {
@@ -40,6 +40,7 @@ half2 %= 10000000000;
 printf("%lu%lu", half1, half2);
 if (count != 98)
 printf(". ");
+
 fib2 = sum;
 }
 
@@ -70,4 +71,3 @@ fib2_half2 = half2;
 printf("\n");
 return(0);
 }
-

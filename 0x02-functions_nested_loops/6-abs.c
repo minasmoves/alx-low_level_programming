@@ -6,7 +6,7 @@
  *
  * return: absulote value of integer
  */
-int _abs(int);
+int _abs(int)
 {
 if (n >= 0)
 return (n);
