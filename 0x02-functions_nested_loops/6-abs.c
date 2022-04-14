@@ -4,9 +4,9 @@
  * _abs - computes absolute value of integer
  * @n: the integer to be computed
  *
- * return: absulote value of integer
+ * Return: absulote value of integer
  */
-int _abs(int)
+int _abs(int n)
 {
 if (n >= 0)
 return (n);
