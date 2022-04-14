@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * main-math block
+ * main-main block
  * description:print -putchar in a new line
  * return: zero
  */
