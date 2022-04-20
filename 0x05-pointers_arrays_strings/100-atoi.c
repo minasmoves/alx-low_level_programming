@@ -1,5 +1,3 @@
-#include "main.h"
-
 /**
  * is_numerical - check if it is digit
  * @n: number

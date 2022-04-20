@@ -1,4 +1,3 @@
-#include "main.h"
 /**
  * rev_string - orints a reverse string
  * @s: a pointer to an int that will be channged

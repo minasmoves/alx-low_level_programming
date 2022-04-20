@@ -1,5 +1,3 @@
-#include "main.h"
-
 /**
  * _strlen - length of a string
  * @s: a pointer to an int that will be changed

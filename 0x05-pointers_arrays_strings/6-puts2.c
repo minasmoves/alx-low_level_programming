@@ -1,5 +1,3 @@
-#include "main.h"
-
 /**
  * puts2 - prints every character of string
  * @str: a pointer to an int 

@@ -1,4 +1,3 @@
-#include "main.h"
 /**
  * _strcpy - copies the string pointed to by src
  * @dest: a pointer to char that will be changed

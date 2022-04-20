@@ -1,5 +1,3 @@
-#include "main.h"
-
 /**
  * puts_half - prints every character of a string
  * @str: a pointer to an int that will be changed
