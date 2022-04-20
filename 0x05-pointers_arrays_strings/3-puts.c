@@ -1,3 +1,4 @@
+#include "main.h"
 /**
  * _puts - prints a string
  * @str: a pointer to an int that will be changed
@@ -18,4 +19,3 @@ _putchar (c[m]);
 }
 _putchar('\n');
 }
-
