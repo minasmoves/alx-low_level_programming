@@ -1,3 +1,4 @@
+#include "main.h"
 
 /**
  * print_numbers - prints the number zero to nine
